@@ -8,20 +8,6 @@
 
 ---
 
-## 📋 Table of Contents
-
-- [Overview](#overview)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage Guide](#usage-guide)
-- [Project Structure](#project-structure)
-- [Research Background](#research-background)
-- [Technical Stack](#technical-stack)
-- [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
-- [Authors](#authors)
-
 ---
 
 ## 🎯 Overview
