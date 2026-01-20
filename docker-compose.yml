@@ -1,0 +1,11 @@
+version: '3.8'
+
+services:
+  poem-el-app:
+    build: .
+    container_name: poem-el-simulator
+    ports:
+      - "8080:80"
+    restart: unless-stopped
+    labels:
+      - "description=Dynamic Pricing Simulator"
